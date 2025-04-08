@@ -1,0 +1,10 @@
+pyproject.toml
+minishop/main.py
+minishop.egg-info/PKG-INFO
+minishop.egg-info/SOURCES.txt
+minishop.egg-info/dependency_links.txt
+minishop.egg-info/top_level.txt
+minishop/backend/server.py
+minishop/database/database.py
+minishop/database/entities.py
+minishop/database/orm.py
